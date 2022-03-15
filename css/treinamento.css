@@ -1,0 +1,387 @@
+/* screen - treinamento */
+
+.treinamento {
+  background-color: var(--white);
+  height: 568px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 320px;
+}
+
+.treinamento .bottom-DLTtOb {
+  background-color: transparent;
+  height: 70px;
+  left: -51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 371px;
+}
+
+.treinamento .rectangle-3-VN54a4 {
+  background-color: var(--cod-gray);
+  height: 56px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.treinamento .health-VN54a4 {
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 181px;
+}
+
+.treinamento .track-VN54a4 {
+  background-color: transparent;
+  height: 19px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 96px;
+}
+
+.treinamento .treinamento-DLTtOb {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  width: 314px;
+}
+
+.treinamento .rectangle-4-DLTtOb {
+  background-color: var(--mist-gray);
+  height: 18px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 269px;
+}
+
+.treinamento .search_icon_125165-1-DLTtOb {
+  background-color: transparent;
+  height: 17px;
+  left: 21px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 108px;
+  width: 19px;
+}
+
+.treinamento .pesquisar-DLTtOb {
+  background-color: transparent;
+  color: #827878;
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 18px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 108px;
+  width: 127px;
+}
+
+.treinamento .peitoral-DLTtOb {
+  background-color: transparent;
+  height: 19px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 142px;
+  width: 64px;
+}
+
+.treinamento .dorsais-DLTtOb {
+  background-color: transparent;
+  height: 17px;
+  left: 118px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 144px;
+  width: 56px;
+}
+
+.treinamento .perna-DLTtOb {
+  background-color: transparent;
+  height: 11px;
+  left: 180px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 147px;
+  width: 38px;
+}
+
+.treinamento .biceps-DLTtOb {
+  background-color: transparent;
+  height: 8px;
+  left: 227px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 149px;
+  width: 43px;
+}
+
+.treinamento .mais-DLTtOb {
+  background-color: transparent;
+  height: 9px;
+  left: 280px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 149px;
+  width: 40px;
+}
+
+.treinamento .todos-DLTtOb {
+  background-color: transparent;
+  height: 12px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 146px;
+  width: 36px;
+}
+
+.treinamento .rectangle-5-DLTtOb {
+  background-color: #9b97974c;
+  height: 16px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 145px;
+  width: 46px;
+}
+
+.treinamento .line-7-DLTtOb {
+  background-color: transparent;
+  height: 1px;
+  left: -1px;
+  position: absolute;
+  top: 254px;
+  width: 319px;
+}
+
+.treinamento .arnold-deadlift-1-DLTtOb {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 255px;
+  width: 63px;
+}
+
+.treinamento .line-8-DLTtOb {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 306px;
+  width: 320px;
+}
+
+.treinamento .desenvolvimento-com-halteres-DLTtOb {
+  background-color: transparent;
+  height: 29px;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 218px;
+  width: 202px;
+}
+
+.treinamento .levantamento-terra-DLTtOb {
+  background-color: transparent;
+  height: 16px;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 276px;
+  width: 122px;
+}
+
+.treinamento .rosca-direta-1-DLTtOb {
+  background-color: transparent;
+  height: 58px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 63px;
+}
+
+.treinamento .rosca-direta-DLTtOb {
+  background-color: transparent;
+  height: 15px;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 328px;
+  width: 79px;
+}
+
+.treinamento .line-9-DLTtOb {
+  background-color: transparent;
+  height: 3px;
+  left: -1px;
+  position: absolute;
+  top: 364px;
+  width: 321px;
+}
+
+.treinamento .squat-1-DLTtOb {
+  background-color: transparent;
+  height: 64px;
+  left: 2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 62px;
+}
+
+.treinamento .line-10-DLTtOb {
+  background-color: transparent;
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 430px;
+  width: 319px;
+}
+
+.treinamento .agachamento-livre-DLTtOb {
+  background-color: transparent;
+  height: 21px;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 389px;
+  width: 113px;
+}
+
+.treinamento .user-menu-DLTtOb {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 320px;
+}
+
+.treinamento .rectangle-6-9FR6oI {
+  background-color: var(--mist-gray);
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.treinamento .user-icon-1-9FR6oI {
+  background-color: transparent;
+  height: 44px;
+  left: 127px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 46px;
+}
+
+.treinamento .line-11-9FR6oI {
+  background-color: transparent;
+  height: 1px;
+  left: 12px;
+  position: absolute;
+  top: 16px;
+  width: 39px;
+}
+
+.treinamento .line-12-9FR6oI {
+  background-color: transparent;
+  height: 1px;
+  left: 12px;
+  position: absolute;
+  top: 26px;
+  width: 39px;
+}
+
+.treinamento .line-13-9FR6oI {
+  background-color: transparent;
+  height: 1px;
+  left: 12px;
+  position: absolute;
+  top: 36px;
+  width: 39px;
+}
+
+.treinamento .food-icon-1-9FR6oI {
+  background-color: transparent;
+  height: 34px;
+  left: 260px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 39px;
+}

@@ -1,0 +1,386 @@
+/* screen - dados-antropometricos */
+
+.dados-antropometricos {
+  background-color: var(--white);
+  height: 568px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 320px;
+}
+
+.dados-antropometricos .bottom-8rgP0d {
+  background-color: transparent;
+  height: 70px;
+  left: -51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 371px;
+}
+
+.dados-antropometricos .rectangle-3-hoSK2V {
+  background-color: var(--cod-gray);
+  height: 56px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.dados-antropometricos .health-hoSK2V {
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 181px;
+}
+
+.dados-antropometricos .track-hoSK2V {
+  background-color: transparent;
+  height: 19px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 96px;
+}
+
+.dados-antropometricos .rectangle-8-8rgP0d {
+  background-color: var(--mist-gray);
+  height: 17px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 210px;
+  width: 274px;
+}
+
+.dados-antropometricos .dados-antropomtricos-8rgP0d {
+  background-color: transparent;
+  height: 51px;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 70px;
+  width: 261px;
+}
+
+.dados-antropometricos .idade-8rgP0d {
+  background-color: transparent;
+  height: 17px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 141px;
+  width: auto;
+}
+
+.dados-antropometricos .sexo-8rgP0d {
+  background-color: transparent;
+  height: 17px;
+  left: -3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 187px;
+  width: 56px;
+}
+
+.dados-antropometricos .peso-kg-8rgP0d {
+  background-color: transparent;
+  height: 17px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  width: auto;
+}
+
+.dados-antropometricos .altura-cm-8rgP0d {
+  background-color: transparent;
+  height: 16px;
+  left: -5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 283px;
+  width: 104px;
+}
+
+.dados-antropometricos .biotipo-8rgP0d {
+  background-color: transparent;
+  height: 21px;
+  left: -21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 391px;
+  width: 110px;
+}
+
+.dados-antropometricos .bodyfat-8rgP0d {
+  background-color: transparent;
+  height: 24px;
+  left: -55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 333px;
+  width: 204px;
+}
+
+.dados-antropometricos .user-menu-8rgP0d {
+  background-color: transparent;
+  height: 56px;
+  left: -4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 512px;
+  width: 326px;
+}
+
+.dados-antropometricos .rectangle-6-Rdsnov {
+  background-color: var(--mist-gray);
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.dados-antropometricos .user-icon-1-Rdsnov {
+  background-color: transparent;
+  height: 46px;
+  left: 129px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 48px;
+}
+
+.dados-antropometricos .line-11-Rdsnov {
+  background-color: transparent;
+  height: 2px;
+  left: 12px;
+  position: absolute;
+  top: 17px;
+  width: 40px;
+}
+
+.dados-antropometricos .line-12-Rdsnov {
+  background-color: transparent;
+  height: 2px;
+  left: 12px;
+  position: absolute;
+  top: 26px;
+  width: 40px;
+}
+
+.dados-antropometricos .line-13-Rdsnov {
+  background-color: transparent;
+  height: 2px;
+  left: 12px;
+  position: absolute;
+  top: 38px;
+  width: 40px;
+}
+
+.dados-antropometricos .food-icon-1-Rdsnov {
+  background-color: transparent;
+  height: 36px;
+  left: 264px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 40px;
+}
+
+.dados-antropometricos .rectangle-7-8rgP0d {
+  background-color: var(--mist-gray);
+  height: 17px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 164px;
+  width: 274px;
+}
+
+.dados-antropometricos .rectangle-9-8rgP0d {
+  background-color: var(--mist-gray);
+  height: 17px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 260px;
+  width: 274px;
+}
+
+.dados-antropometricos .rectangle-10-8rgP0d {
+  background-color: var(--mist-gray);
+  height: 17px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 308px;
+  width: 274px;
+}
+
+.dados-antropometricos .rectangle-11-8rgP0d {
+  background-color: var(--mist-gray);
+  height: 17px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 274px;
+}
+
+.dados-antropometricos .rectangle-12-8rgP0d {
+  background-color: var(--mist-gray);
+  height: 17px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 421px;
+  width: 274px;
+}
+
+.dados-antropometricos .ectomorfo-8rgP0d {
+  background-color: transparent;
+  height: 14px;
+  left: -2px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 423px;
+  width: 106px;
+}
+
+.dados-antropometricos .mesomorfo-8rgP0d {
+  background-color: transparent;
+  height: 8px;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 426px;
+  width: 100px;
+}
+
+.dados-antropometricos .endomorfo-8rgP0d {
+  background-color: transparent;
+  height: 7px;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 426px;
+  width: 134px;
+}
+
+.dados-antropometricos .no-sei-meu-biotipo-8rgP0d {
+  background-color: transparent;
+  height: 13px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 397px;
+  width: 134px;
+}
+
+.dados-antropometricos .line-14-8rgP0d {
+  background-color: transparent;
+  height: 2px;
+  left: 79px;
+  position: absolute;
+  top: 409px;
+  width: 92px;
+}
+
+.dados-antropometricos .no-sei-meu-bf-8rgP0d {
+  background-color: transparent;
+  height: 11px;
+  left: 92px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 343px;
+  width: 94px;
+}
+
+.dados-antropometricos .line-15-8rgP0d {
+  background-color: transparent;
+  height: 1px;
+  left: 103px;
+  position: absolute;
+  top: 353px;
+  width: 72px;
+}
+
+.dados-antropometricos .masculino-8rgP0d {
+  background-color: transparent;
+  height: 7px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 215px;
+  width: 77px;
+}
+
+.dados-antropometricos .feminino-8rgP0d {
+  background-color: transparent;
+  height: 13px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 213px;
+  width: 83px;
+}

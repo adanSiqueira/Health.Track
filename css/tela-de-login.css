@@ -1,0 +1,194 @@
+/* screen - tela-de-login */
+
+.tela-de-login {
+  background-color: var(--white);
+  height: 541px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 320px;
+}
+
+.tela-de-login .boto-entrar-xVuRxC {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 477px;
+  width: 320px;
+}
+
+.tela-de-login .rectangle-1-LRPSco {
+  background-color: var(--mist-gray);
+  height: 64px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tela-de-login .entrar-LRPSco {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-rowdies-regular);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 116px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: auto;
+}
+
+.tela-de-login .header-xVuRxC {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 323px;
+}
+
+.tela-de-login .rectangle-2-iqqdY6 {
+  background-color: #6a6a6a80;
+  height: 61px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 323px;
+}
+
+.tela-de-login .health-iqqdY6 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 82px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  width: 204px;
+}
+
+.tela-de-login .track-iqqdY6 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-rowdies-regular);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 19px;
+  left: 208px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  width: 74px;
+}
+
+.tela-de-login .linhas-separadoras-xVuRxC {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 188px;
+  width: 320px;
+}
+
+.tela-de-login .line-5-PxS07I {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 321px;
+}
+
+.tela-de-login .line-6-PxS07I {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: 70px;
+  width: 321px;
+}
+
+.tela-de-login .x1490129331-rounded07_82197-1-xVuRxC {
+  background-color: transparent;
+  height: 15px;
+  left: 3px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 148px;
+  width: 21px;
+}
+
+.tela-de-login .e-mail-ou-usurio-xVuRxC {
+  background-color: transparent;
+  height: 19px;
+  left: -52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 148px;
+  width: 239px;
+}
+
+.tela-de-login .job-bag-icon-1-xVuRxC {
+  background-color: transparent;
+  height: 16px;
+  left: 3px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 219px;
+  width: 18px;
+}
+
+.tela-de-login .senha-xVuRxC {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 219px;
+  width: 83px;
+}
+
+.tela-de-login .esqueci-minha-senha-xVuRxC {
+  background-color: transparent;
+  height: 15px;
+  left: -21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 261px;
+  width: 141px;
+}

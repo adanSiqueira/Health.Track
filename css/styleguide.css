@@ -1,0 +1,72 @@
+:root { 
+  --black: #000000;
+  --cod-gray: #090808;
+  --mist-gray: #c4c4c4;
+  --white: #ffffff;
+ 
+  --font-size-l: 10px;
+  --font-size-m: 9px;
+  --font-size-xl: 12px;
+  --font-size-xxl: 14px;
+  --font-size-xxxl: 18px;
+  --font-size-xxxxl: 24px;
+  --font-size-xxxxxl: 48px;
+ 
+  --font-family-rowdies-regular: "Rowdies-Regular", Helvetica;
+  --font-family-russo_one: "Russo One", Helvetica;
+}
+.russoone-normal-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.russoone-normal-black-9px {
+  color: var(--black);
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.russoone-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.russoone-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.russoone-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.russoone-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-russo_one);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rowdies-regular-normal-black-9px {
+  color: var(--black);
+  font-family: var(--font-family-rowdies-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
